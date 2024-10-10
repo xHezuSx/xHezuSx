@@ -53,10 +53,27 @@ headline{
 }
 
 #currently-working{
-    margin-top: 2.5%;
+    margin-top: 1.5%;
     width: 40%;
     line-height: 1.4;
     
+}
+
+#moving-icons{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    justify-items: stretch;
+    margin-top: 1%;
+    width: 40%; 
+}
+.slider{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.black{
+    background-color: white;
 }
 
 .comment{
