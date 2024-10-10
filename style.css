@@ -55,5 +55,18 @@ headline{
 #currently-working{
     margin-top: 2.5%;
     width: 40%;
+    line-height: 1.4;
     
+}
+
+.comment{
+    color: #858f98;
+    font-size: 90%;
+    line-height: 1.2
+}
+
+#past-projects{
+    width: 40%;
+    padding-top: 3%;
+    line-height: 1.3;
 }
